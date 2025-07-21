@@ -8,7 +8,7 @@ elif s == "+":
     print(a + b)
 elif s == "-":
     print(a - b)
-elif s == "/":
+elif s == "/": #INDIVISIBLE EN 0 AGREGAR OTRO IF
     print(a / b)
 else:
     print("Error al elegir la operación")
